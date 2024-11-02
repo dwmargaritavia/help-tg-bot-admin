@@ -36,7 +36,6 @@ export default {
 <style scoped>
 #info_page {
     padding: 20px;
-    color: white;
 }
 
 .info_actions {
